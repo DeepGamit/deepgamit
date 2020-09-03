@@ -7,7 +7,7 @@
     :sparkles: Favorite Tech: JavaScript, ReactJS, Java, NodeJS, Typescript ... <br>
     :notebook: I’m currently learning AWS services 😭  <br>
     :email:	deepkgamit@gmail.com <br>
-    :art: Portfolio: Coming Soon <br>
+    :art: Portfolio: Coming Soon ... <br>
     :briefcase: LinkedIn: https://linkedin.com/in/deepkgamit2105/ <br>
   </samp>
 </p>
