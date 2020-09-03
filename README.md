@@ -7,7 +7,7 @@
     :sparkles: Favorite Tech: JavaScript, ReactJS, Java, NodeJS, Typescript ... <br>
     :notebook: I’m currently looking for Internship/Co-Op 😭  <br>
     :email:	deepkgamit@gmail.com <br>
-    :art: Portfolio: Coming Soon ... <br>
+    :art: Portfolio: https://deepgamit.github.io/DeepPortfolio/ <br>
     :briefcase: LinkedIn: https://linkedin.com/in/deepkgamit2105/ <br>
   </samp>
 </p>
