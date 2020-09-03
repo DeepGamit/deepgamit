@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm Deep! 👋 22 Year's Old Web Application Developer grinding hard to make something cool 🔥 
+✨ Favorite Tech: JavaScript, React, Typescript, Java, Node,  ... 
+📓 I’m currently learning DS and Algo... 😭 
+✉️ deepkgamit@gmail.com
+🎨 Portfolio: Coming Soon
+💼 LinkedIn: https://linkedin.com/in/deepgamit2105/ 
 
 <!--
 **DeepGamit/deepgamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
