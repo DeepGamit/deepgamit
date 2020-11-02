@@ -8,6 +8,6 @@
     :notebook: I’m currently looking for Internship/Co-Op 😭  <br>
     :email:	deepkgamit@gmail.com | :email:	gamit.d@northeastern.edu <br>
     :art: Portfolio: https://deepgamit.github.io/DeepPortfolio/ <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/deepkgamit2105/ <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/deepgamit2105/ <br>
   </samp>
 </p>
