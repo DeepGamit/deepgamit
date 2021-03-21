@@ -4,7 +4,7 @@
   <samp>
     Hi, I'm Deep! 👋
     23 Year's Old Web Developer grinding hard to make something cool 🔥 <br>
-    :sparkles: Favorite Tech: JavaScript, ReactJS, Java, NodeJS, Typescript ... <br>
+    :sparkles: Favorite Tech: JavaScript, Angular9, ReactJS, Java, NodeJS, Typescript ... <br>
     :notebook: I’m currently looking for Internship/Co-Op 😭  <br>
     :email:	deepkgamit@gmail.com | :email:	gamit.d@northeastern.edu <br>
     :art: Portfolio: http://deep-gamit.me/DeepPortfolio/ <br>
